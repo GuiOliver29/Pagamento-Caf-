@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(81, 99, 0);
+    color: white;
+    font-family: Arial;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 4px solid #000000;
+}
+
+nav ul a {
+    font-size: 20px;
+    color: #000000;
+    padding: 10px;
+}
+
+section h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+table {
+    background-color: #ffffff;
+    color: #000000;
+    margin: auto;
+    width: 50%;
+}
+
+table tr td p {
+    font-size: 20px;
+    text-align: center;
+}
+
+table td H1 {
+    text-align: center;
+}
