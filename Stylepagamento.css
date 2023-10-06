@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(81, 99, 0);
+    background-color: #2600ff;
     color: white; 
     font-family: Arial;
     text-align: center;
@@ -14,7 +14,7 @@ nav {
 
 nav ul a {
     font-size: 20px;
-    color: #000000;
+    color: #ffffff;
     padding: 20px;
 
 }
@@ -30,7 +30,7 @@ section ul {
 }
 
 section ul a {
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 section footer {
