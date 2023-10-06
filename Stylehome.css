@@ -49,3 +49,7 @@ div table {
     margin: auto;
     width: 50%;
 }
+
+section footer h3 {
+    font-size: 15px;
+}

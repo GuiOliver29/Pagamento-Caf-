@@ -21,7 +21,7 @@ nav ul a {
 
 section h2 {
     text-align: center;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 section p {
@@ -33,8 +33,17 @@ section p a {
     font-size: 25px;
 }
 
+section img {
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+}
+
 section footer {
     text-align: center;
     border-top: 3px solid #000000;
 }
 
+section footer h3 {
+    font-size: 15px;
+}
