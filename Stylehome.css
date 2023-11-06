@@ -54,7 +54,7 @@ section footer h3 {
     font-size: 15px;
 }
 
-#Meses {
+#Meses a {
     color: #ffffff;
     padding: 15px;
     border-bottom: 4px solid #000000;
