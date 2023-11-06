@@ -53,3 +53,12 @@ div table {
 section footer h3 {
     font-size: 15px;
 }
+
+#Meses {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    border-bottom: 4px solid #000000;
+}
