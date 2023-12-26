@@ -1,1 +1,59 @@
+body{
+    background-color: #2600ff;
+    color: white;
+    font-family: Arial;
+}
 
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    border-bottom: 4px solid #000000;
+}
+
+nav ul a {
+    font-size: 20px;
+    color: #fdfdfd;
+    padding: 20px;
+}
+
+section h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+table {
+    background-color: #ffffff;
+    color: #000000;
+    margin: auto;
+    width: 50%;
+}
+
+table tr td p {
+    font-size: 20px;
+    text-align: center;
+}
+
+table td H1 {
+    text-align: center;
+}
+
+section footer {
+    text-align: center;
+    border-top: 3px solid #000000;
+}
+
+div table { 
+    border-top: 15px solid #2600ff;
+    margin: auto;
+    width: 50%;
+}
+
+section footer h3 {
+    font-size: 15px;
+}
+
+#Meses a {
+    color: #ffffff;
+}
